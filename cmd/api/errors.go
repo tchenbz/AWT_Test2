@@ -49,3 +49,9 @@ func (a *applicationDependencies)rateLimitExceededResponse(w http.ResponseWriter
 	message := "rate limit exceeded"
 	a.errorResponseJSON(w, r, http.StatusTooManyRequests, message)
 }
+
+
+
+
+
+//made a mmistake
