@@ -1,0 +1,8 @@
+github.com/julienschmidt/httprouter v1.3.0 h1:U0609e9tgbseu3rBINet9P48AI/D3oJs4dN7jwJOQ1U=
+github.com/julienschmidt/httprouter v1.3.0/go.mod h1:JR6WtHb+2LUe8TCKY3cZOxFyyO8IZAc4RVcycCCAKdM=
+github.com/lib/pq v1.10.9 h1:YXG7RB+JIjhP29X+OtkiDnYaXQwpS4JEWq7dtCCRUEw=
+github.com/lib/pq v1.10.9/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
+github.com/tchenbz/AWT_Test1 v0.0.0-20241030205256-7224c8db7cdb h1:qiQnkpJojbno7YnoH48yqoz7/rV1xwnSq0OlR77enY4=
+github.com/tchenbz/AWT_Test1 v0.0.0-20241030205256-7224c8db7cdb/go.mod h1:0Se6YqJ7SXOndv0BF5u1OtbOBUbYAbIigfxCuPwdhQA=
+golang.org/x/time v0.8.0 h1:9i3RxcPv3PZnitoVGMPDKZSq1xW1gK1Xy3ArNOGZfEg=
+golang.org/x/time v0.8.0/go.mod h1:3BpzKBy/shNhVucY/MWOyx10tF3SFh9QdLuxbVysPQM=
